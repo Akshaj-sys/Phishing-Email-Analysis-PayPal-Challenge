@@ -5,7 +5,7 @@ This repository contains a practical exercise conducted on LetsDefend.io's **Phi
 The challenge involved analyzing a suspicious PayPal email, identifying phishing indicators, validating the threat using VirusTotal, and confirming whether it was a phishing email.
 
 ## Badge Earned
-<img src= https://img.shields.io/badge/Phishing-analyzer?style=for-the-badge&logoColor=brightgreen> 
+<img src="https://img.shields.io/badge/Phishing-analyzer?style=for-the-badge&logoColor=brightgreen" \> 
 
 ## Tools Used
 - LetsDefend Virtual Machine
