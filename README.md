@@ -1,6 +1,6 @@
 # Phishing-Email-Analysis-PayPal-Challenge
 
-This repository contains a practical exercise conducted on LetsDefend.io's **Phishing Email Challenge**, where I successfully completed all tasks and earned the **Phishing Analyzer badge**.  
+This repository contains a practical exercise conducted on LetsDefend.io's Phishing Email Challenge, where I successfully completed all tasks and earned the Phishing Analyzer badge.  
 
 The challenge involved analyzing a suspicious PayPal email, identifying phishing indicators, validating the threat using VirusTotal, and confirming whether it was a phishing email.
 
